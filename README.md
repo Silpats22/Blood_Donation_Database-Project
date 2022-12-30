@@ -1,5 +1,5 @@
 # Blood_Donation_Database-Project
-It is a standalone application.
+It is a standalone application.<br/>
  This project includes a database system which stores the details of blood donors.
  Java swing is used to create the user interface.
  Mysql database is connected to java swing using jdbc.
