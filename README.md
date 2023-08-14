@@ -9,6 +9,6 @@ It is a standalone application.<br/>
  Donor details can be entered into textfields provided and and it will be automatically inserted into our blood_donation_database.<br/>
  <br/>
 ![p1](p1.png)<br/>
-![p2](p1.png)<br/>
-![p3](p1.png)<br/>
-![p4](p1.png)<br/>
+![p2](p2.png)<br/>
+![p3](p3.png)<br/>
+![p4](p4.png)<br/>
