@@ -1,4 +1,4 @@
-# Blood_Donation_Database-Project
+# Blood Donation Management System
 It is a standalone application.<br/>
  This project includes a database system which stores the details of blood donors.<br/>
  Java swing is used to create the user interface.<br/>
