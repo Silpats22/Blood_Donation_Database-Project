@@ -7,3 +7,4 @@ It is a standalone application.<br/>
  After login the user will be redirected to a page where they can add donors as well as check donors with specified blood group.<br/>
  In the search window there is a dropdown to select the blood group and the details of donors with corresponding blood group will be displayed.<br/>
  Donor details can be entered into textfields provided and and it will be automatically inserted into our blood_donation_database.<br/>
+![p1](p1.png)
